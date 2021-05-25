@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kureiji-ollie-apex-copypasta-generator/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/kureiji-ollie-apex-copypasta-generator/static/js/main.467f606d.chunk.js",
-    "main.js.map": "/kureiji-ollie-apex-copypasta-generator/static/js/main.467f606d.chunk.js.map",
+    "main.js": "/kureiji-ollie-apex-copypasta-generator/static/js/main.9e2faeca.chunk.js",
+    "main.js.map": "/kureiji-ollie-apex-copypasta-generator/static/js/main.9e2faeca.chunk.js.map",
     "runtime-main.js": "/kureiji-ollie-apex-copypasta-generator/static/js/runtime-main.d1c64123.js",
     "runtime-main.js.map": "/kureiji-ollie-apex-copypasta-generator/static/js/runtime-main.d1c64123.js.map",
     "static/css/2.150d169a.chunk.css": "/kureiji-ollie-apex-copypasta-generator/static/css/2.150d169a.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.17329827.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.467f606d.chunk.js"
+    "static/js/main.9e2faeca.chunk.js"
   ]
 }
