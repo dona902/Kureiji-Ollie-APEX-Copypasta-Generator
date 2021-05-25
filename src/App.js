@@ -35,7 +35,7 @@ class App extends React.Component {
         <Container>
           <Row>
             <Col>
-              <h1 class="text-center">Kureiji Ollie APEX Generator</h1>
+              <h1 class="text-center">Kureiji Ollie APEX Copypasta Generator</h1>
             </Col>
           </Row>
           <Row>
